@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+}
+
+.form
+{
+display: inline-block;
+border:0.3vh solid black;
+padding: 1vw;
+}
+label
+{
+	width: 80vw;
+}
+input
+{
+	width: 80vw;
+}
